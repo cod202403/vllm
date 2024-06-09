@@ -1,0 +1,6 @@
+hello,world
+this is my first repository
+toady is 2024/6/9
+i start to send code to open source community
+it is a small but import start
+let's go
